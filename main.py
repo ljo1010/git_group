@@ -1,2 +1,4 @@
+import hate
+
 def main():
-    pass
+	return hate.hate()
