@@ -1,5 +1,6 @@
-# 3) cart 담당자인 경우
 import cart
+import hate
+import like
 
 def main():
-	return cart.cart()
+	return hate.hate() + like.like() + cart.cart()
