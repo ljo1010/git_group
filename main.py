@@ -1,2 +1,4 @@
+import like
+
 def main():
-    pass
+	return like.like()
